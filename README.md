@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone in the deep ocean of technologies 👋
 
 <!--
 **Nazar-Pichak/Nazar-Pichak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
