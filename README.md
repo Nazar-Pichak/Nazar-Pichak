@@ -1,4 +1,6 @@
-# Hi everyone in the deep ocean of technologies 👋
+ 
+
+# Hi everyone in the deep ocean of technologies<picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="50" height="50"> </picture>
 
 ### My name is Nazar and hope we will build something special together.  
 
