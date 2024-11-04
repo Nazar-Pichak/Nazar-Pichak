@@ -1,4 +1,6 @@
-## Hi everyone in the deep ocean of technologies 👋
+# Hi everyone in the deep ocean of technologies 👋
+
+### My name is Nazar and hope we will build something special together.  
 
 <!--
 **Nazar-Pichak/Nazar-Pichak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
