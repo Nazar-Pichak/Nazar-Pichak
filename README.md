@@ -33,8 +33,7 @@
 
 ##
 ### VCS and remotes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px" /> <img src="https://static.cdnlogo.com/logos/g/69/github-icon.svg" style="width:60px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="width:60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:60px" />  <img src="https://static.cdnlogo.com/logos/g/69/github-icon.svg" style="width:60px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="width:60px" />
                     
 ##
 ### API
