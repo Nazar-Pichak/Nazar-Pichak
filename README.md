@@ -2,11 +2,11 @@
 
 # Hi everyone in the deep ocean of technologies<picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="60" height="60"> </picture>
 
- **My name is Nazar and I'm a Fullstack Python Developer <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="20" height="20"> </picture>**
+ **My name is Nazar and I'm a Fullstack Python Developer <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15"> </picture>**
 
-**Let's create something magic together <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="20" height="20"> </picture>** 
+**Let's create something magic together <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="15" height="15"> </picture>** 
 
-**See my favorite stack of technologies belove as well <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" height="20"> </picture>**
+**See my favorite stack of technologies belove as well <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="15" height="15"> </picture>**
 
 ##
 ### Frontend
@@ -29,12 +29,12 @@
 
 ##
 ### Third Party
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original-wordmark.svg" style="width:60px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width:60px"/>
+<a href="https://cdnlogo.com/logo/python-package-index_124401.html"><img src="https://static.cdnlogo.com/logos/p/62/python-package-index.svg" style="width:90px"></a> <a href="https://cdnlogo.com/logo/npm-2_4909.html"><img src="https://static.cdnlogo.com/logos/n/17/npm-2.svg" style="width:60px" ></a>
 
 ##
-### VCS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px" /> 
-
+### VCS and remotes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="width:60px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" style="width:60px"/>
+          
 ##
 ### API
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width:60px"/>
@@ -45,7 +45,9 @@
           
 ##
 ### AI
-...........................         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="width:60px" /> <a href="https://cdnlogo.com/logo/chatgpt_134790.html"><img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" style="width:60px"></a>
+          
+       
           
           
           
