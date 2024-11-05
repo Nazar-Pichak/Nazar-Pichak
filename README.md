@@ -29,12 +29,13 @@
 
 ##
 ### Third Party
-<a href="https://cdnlogo.com/logo/python-package-index_124401.html"><img src="https://static.cdnlogo.com/logos/p/62/python-package-index.svg" style="width:90px"></a> <a href="https://cdnlogo.com/logo/npm-2_4909.html"><img src="https://static.cdnlogo.com/logos/n/17/npm-2.svg" style="width:60px" ></a>
+<a href="https://cdnlogo.com/logo/python-package-index_124401.html"><img src="https://static.cdnlogo.com/logos/p/62/python-package-index.svg" style="width:90px"><img src="https://static.cdnlogo.com/logos/n/17/npm-2.svg" style="width:60px">
 
 ##
 ### VCS and remotes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="width:60px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" style="width:60px"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:60px" /> <img src="https://static.cdnlogo.com/logos/g/69/github-icon.svg" style="width:60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="width:60px" />
+                    
 ##
 ### API
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width:60px"/>
@@ -45,7 +46,7 @@
           
 ##
 ### AI
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="width:60px" /> <a href="https://cdnlogo.com/logo/chatgpt_134790.html"><img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" style="width:60px"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="width:60px" /> <img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" style="width:60px">
           
        
           
