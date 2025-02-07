@@ -46,10 +46,17 @@
 ##
 ### AI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="width:60px" /> <img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" style="width:60px">
-          
-       
-          
-          
+
+##
+### Top Projects
+- https://www.carzonewebapp.site/
+- https://todoapp-nazar2022.pythonanywhere.com/
+- https://nazar-pichak.github.io/Social-Editor/
+- https://nazar-pichak.github.io/ArtistFinder/index.html
+- https://nazar-pichak.github.io/calendar/
+- https://github.com/Nazar-Pichak/OneWayFolderSync
+- https://nazar-pichak.github.io/BetterPhotos/
+
           
                    
           
