@@ -60,6 +60,7 @@
 - https://nazar-pichak.github.io/Pokemons/
 - https://nazar-portfolio-react.vercel.app/
 - https://fashion-greatcart.vercel.app/
+- https://digital-seller.vercel.app/
           
                    
           
